@@ -3,12 +3,3 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
 </div>
- 
-
-# Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lofinaf&theme=solarized_dark)
-
-## My Stack
-<div id="Stack">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" width="40" height="40"/>&nbsp;
-</div>
