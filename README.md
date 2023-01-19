@@ -6,7 +6,7 @@
  
 
 # Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lofinaf&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lofinaf&theme=solarized_dark)
 
 ## My Stack
 <div id="Stack">
