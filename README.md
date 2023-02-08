@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Interpreter+and+compiler+developer)](https://git.io/typing-s!vg)
 
-<h1 align="center">Hi 👋, I'm Lofinaf</h1>
-<h3 align="center">A Compiler developer from Russia</h3>
-
-- 🔭 I’m currently working on [tpl project](https://github.com/Lofinaf/tpl)
-
 <p align="left">
 </p>
 
