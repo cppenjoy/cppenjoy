@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Interpreter+and+compiler+developer)](https://git.io/typing-s!vg)
+# About me
+🙋‍♂️ I'm a software engineer. I'm interested in interpreters, translators, compilers and type theory. I use C, C++ and F# as my main languages.
 
-<p align="left">
-</p>
-
+# My projects
+🍔 Right now I'm working on a project that's important to me, and I'll give you all the information as soon as I finish it
