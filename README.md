@@ -4,6 +4,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cppenjoy)
 
+# Profile views count
+![](https://komarev.com/ghpvc/?username=cppenjoy)
+
 # Github Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cppenjoy)](https://github.com/ryo-ma/github-profile-trophy)
